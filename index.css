@@ -41,7 +41,7 @@ body {
 }
 
 .container {
-    margin-top: 5rem;
+    margin-top: 2rem;
     margin-left: auto;
     margin-right: auto;
     max-width: 45rem;
@@ -89,7 +89,7 @@ article {
     padding: 1rem;
 }
 h1 {
-    font-size: 50vw;
+    font-size: 22vw;
 }
 
 h2 {
@@ -102,13 +102,13 @@ header {
 }
 
 section {
-    margin-top: 3rem;
+    margin-top: 1rem;
     margin-bottom: 3rem;
 }
 
 @media (min-width: 576px) {
     .container {
-        padding: 5rem;
+        padding: 2rem;
 
     }
 }

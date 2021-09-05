@@ -55,11 +55,11 @@ a {
 }
 
 a:link {
-    color: black;
+    color: white;
 }
 
 a:visited {
-    color: black;
+    color: hotpink;
 }
 
 a:hover {
@@ -68,7 +68,7 @@ a:hover {
 }
 
 a:active {
-    color: grey;
+    color: hotpink;
 }
 
 ul {
